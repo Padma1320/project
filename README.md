@@ -1,6 +1,5 @@
 # Streamlit Application using RAG (Retrieval-Augmented Generation)
 
-This repository submission is part of the Resolute AI Internship.
 
 **Project Title:**  
 **Streamlit Application using RAG**
